@@ -1,0 +1,6 @@
+<map version="1.0">
+   <mapID target="inicio" url="help/html/inicio.html" />
+   <mapID target="principal" url="help/html/principal.html" />
+   <mapID target="backups" url="help/html/backups.html" />
+   <mapID target="duplicados" url="help/html/duplicados.html" />
+</map>

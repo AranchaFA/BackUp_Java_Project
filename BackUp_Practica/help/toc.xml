@@ -1,0 +1,7 @@
+<toc version="1.0">
+   <tocitem text="JavaHelp USB-BackUp" target="inicio">
+      <tocitem text="Principal" target="principal"/>
+      <tocitem text="Visualización de backups" target="backups"/> // ¿Colgaría de principal?
+	  <tocitem text="Visualización de duplicados" target="duplicados"/> // ¿Colgaría de backups?
+   </tocitem>
+</toc>

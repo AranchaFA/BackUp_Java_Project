@@ -1,0 +1,7 @@
+<index version="1.0">
+   <indexitem text="JavaHelp USB-BackUp" target="inicio">
+      <indexitem text="Principal" target="principal"/>
+      <indexitem text="Visualización de backups" target="backups"/> // ¿Colgaría de principal?
+      <indexitem text="Visualización de duplicados" target="duplicados"/> // ¿Colgaría de backups?
+   </indexitem>
+</index>
